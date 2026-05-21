@@ -1,0 +1,22 @@
+body {
+  background: rgb(34, 1, 34);
+}
+
+h1 {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+#box {
+  border: 2px solid greenyellow;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  justify-content: flex-start;
+  align-items:end;
+}
+
+.item {
+  border: 1px solid salmon;
+  padding: 10px;
+}
